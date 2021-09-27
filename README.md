@@ -1,0 +1,2 @@
+# Search-Engine
+In this project I built a search tool (a small retrieval system) using Boolean retrieval method for cranfield dataset. and apply various queries with conjunction, disjunction and negation of terms. Here we also have to see the effectiveness of our implementation using MAP and Precision Recall graph for 1.without stemming 2.with stemming 3. zone indexes for title and body text fields and come up with optimal weights.
